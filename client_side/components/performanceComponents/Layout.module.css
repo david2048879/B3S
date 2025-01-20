@@ -1,0 +1,19 @@
+/* Scoped styles for the performance layout */
+.layoutContainer {
+    display: flex;
+  }
+  
+  .sidebar {
+    width: 250px;
+    background-color: #f8f9fa;
+    height: 100vh;
+    box-shadow: 2px 0 5px rgba(0, 0, 0, 0.1);
+  }
+  
+  .mainContent {
+    flex-grow: 1;
+    padding: 20px;
+    background-color: #fff;
+    min-height: 100vh;
+  }
+  

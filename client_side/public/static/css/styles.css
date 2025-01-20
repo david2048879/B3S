@@ -1,0 +1,29 @@
+#nprogress .bar {
+    height: 4px !important;
+    background: rgb(228, 117, 73) !important;
+}
+
+.nav a:hover {
+    border-radius: 0px;
+}
+
+h4 {
+	color: rgb(245, 134, 7); 
+	font-weight: 100;
+	margin-top: 34px;
+}
+
+body {
+	background-color: rgba(238, 241, 233, 0.959);
+}
+
+#dataEntry {
+	background-color: rgba(169, 195, 166, 0.473);
+}
+
+a {
+	color: black;
+}
+a:hover {
+	text-decoration: none;
+}
